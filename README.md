@@ -1,16 +1,13 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=ambient_gradient&height=120&section=header"/>
+<br>
+<br> 
 
-<!--
-**AndresaFraga/AndresaFraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=EE82EE&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Andresa;I'm+28+years+old;I'm+a+BI+Analyst;I'm+from+Rio+de+Janeiro%2C+Brazil;Welcome!)](https://git.io/typing-svg)
+<br>
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreaFraga&theme=ambient_gradient&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
