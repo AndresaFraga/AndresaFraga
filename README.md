@@ -11,3 +11,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreaFraga&theme=ambient_gradient&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
 </div>
+
+<div align="center"> 
+    <a href = "mailto:andresaffraga@gmail.com"><img src= https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  <a href="https://www.linkedin.com/in/andresafraga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
