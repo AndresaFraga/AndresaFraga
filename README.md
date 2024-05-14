@@ -51,6 +51,5 @@
 <br>
 <br>
 
-![snake gif](https://github.com/AndresaFraga/AndresaFraga/blob/output/github-contribution-grid-snake.svg)
-  
+ 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=ambient_gradient&height=120&section=footer"/>
