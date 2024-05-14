@@ -10,12 +10,45 @@
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreaFraga&theme=ambient_gradient&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
+<br>
+<br>
+
 </div>
 
 <div align="center"> 
     <a href = "mailto:andresaffraga@gmail.com"><img src= https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
   <a href="https://www.linkedin.com/in/andresafraga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+    
 </div>
 
+<br>
+<br>
+
+### Tools:
+
+<br>
+
+<div align="center">
+	<code><img width="200" src= "https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"></code>
+  <code><img width="130" src= "https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black"></code>
+  <code><img width="100" src= "https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></code>
+  <code><img width="100" src= "https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"></code>
+	
+</div>
+<br>
+<br>
+
+### Studying in this moment:
+
+<br>
+
+<div align="center">
+ <code><img width="120" src= "https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"></code>
+ <code><img width="120" src= "https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"></code>
+ <code><img width="100" src= "https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"></code>
+  
+</div>
+<br>
+<br>
+  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=ambient_gradient&height=120&section=footer"/>
