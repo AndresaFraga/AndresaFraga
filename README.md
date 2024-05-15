@@ -24,28 +24,28 @@
 <br>
 <br>
 
-### Tools:
+   ### Tools:
 
 <br>
 
 <div align="center">
-	<code><img width="200" src= "https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"></code>
-  <code><img width="130" src= "https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black"></code>
-  <code><img width="100" src= "https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></code>
-  <code><img width="100" src= "https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"></code>
+	<code><img width="170" src= "https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"></code>
+  <code><img width="100" src= "https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black"></code>
+  <code><img width="80" src= "https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></code>
+  <code><img width="80" src= "https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"></code>
 	
 </div>
 <br>
 <br>
 
-### Studying in this moment:
+   ### Studying in this moment:
 
 <br>
 
 <div align="center">
- <code><img width="120" src= "https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"></code>
- <code><img width="120" src= "https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"></code>
- <code><img width="100" src= "https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"></code>
+ <code><img width="90" src= "https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"></code>
+ <code><img width="90" src= "https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"></code>
+ <code><img width="80" src= "https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"></code>
   
 </div>
 <br>
