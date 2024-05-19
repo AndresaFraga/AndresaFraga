@@ -8,7 +8,9 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreaFraga&theme=ambient_gradient&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AndresaFraga&theme=ambient-gradient&hide_border=&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=900)](https://git.io/streak-stats)
+
 
 <br>
 <br>
