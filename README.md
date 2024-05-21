@@ -11,7 +11,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AndresaFraga&theme=ambient-gradient&hide_border=&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=900)](https://git.io/streak-stats)
 
- 
 <br>
 <br>
 
